@@ -1,7 +1,7 @@
 # baseball2021
 
 ## Description
-This is my 2021 Major League Baseball fantasy and advanced metrics database. It was built using mySQL.  It contains work samples and contact links to learn more about my job qualifications.
+This is my 2021 Major League Baseball fantasy and advanced metrics database. It was built using mySQL.  All data was entered manually.  It contains work samples and contact links to learn more about my job qualifications.
 
 ## Table of Contents
 
