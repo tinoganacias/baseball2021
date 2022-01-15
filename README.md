@@ -19,13 +19,13 @@ This is my 2021 Major League Baseball fantasy and advanced metrics database. It 
 
 ## Usage
 
-![image](https://drive.google.com/file/d/10uYJpQqytnGuSksKe2z10rYm75WytIyh/view)
+![image](https://user-images.githubusercontent.com/84544540/149605904-ad0c9784-7f38-49ef-a387-a4bf37370834.png)
 
 
-![image](https://user-images.githubusercontent.com/84544540/132585288-15f3899e-c928-40c9-baed-730366672519.png)
+![image]
 
 
-![image](https://user-images.githubusercontent.com/84544540/132585351-78ed1f6a-e072-41d2-b0be-66a3da19e4d1.png)
+![image]
 
 ## License 
 
