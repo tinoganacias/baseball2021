@@ -21,13 +21,13 @@ This is my 2021 Major League Baseball fantasy and advanced metrics database. It 
 
 ![image](https://user-images.githubusercontent.com/84544540/149605904-ad0c9784-7f38-49ef-a387-a4bf37370834.png)
 
-![image](https://drive.google.com/file/d/1yEeRxCTKoh_tSyZG35Yx2y121FxW7an-/view)
-
 ## License 
 
 Licensed under the MIT License
 
 ## Links
+
+Video of mySQL use: (https://drive.google.com/file/d/1yEeRxCTKoh_tSyZG35Yx2y121FxW7an-/view)
 
 Application and LinkedIn is accessible at: https://www.linkedin.com/in/valentino-ganacias-5a1645110/
 
