@@ -21,9 +21,7 @@ This is my 2021 Major League Baseball fantasy and advanced metrics database. It 
 
 ![image](https://user-images.githubusercontent.com/84544540/149605904-ad0c9784-7f38-49ef-a387-a4bf37370834.png)
 
-
-![image]
-
+![image](https://watch.screencastify.com/v/kax7coE0wJC21vzSpL0g)
 
 ![image]
 
