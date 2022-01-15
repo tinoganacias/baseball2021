@@ -27,7 +27,7 @@ Licensed under the MIT License
 
 ## Links
 
-Video of mySQL use: (https://drive.google.com/file/d/1yEeRxCTKoh_tSyZG35Yx2y121FxW7an-/view)
+Video of mySQL use: https://drive.google.com/file/d/1yEeRxCTKoh_tSyZG35Yx2y121FxW7an-/view
 
 Application and LinkedIn is accessible at: https://www.linkedin.com/in/valentino-ganacias-5a1645110/
 
